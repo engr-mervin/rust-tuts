@@ -1,1 +1,0 @@
-C:\Users\jbocatcat\Desktop\rust\mandelbrot\target\release\mandelbrot.exe: C:\Users\jbocatcat\Desktop\rust\mandelbrot\src\image.rs C:\Users\jbocatcat\Desktop\rust\mandelbrot\src\main.rs C:\Users\jbocatcat\Desktop\rust\mandelbrot\src\parse_arguments.rs
